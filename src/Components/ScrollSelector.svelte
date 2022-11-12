@@ -56,7 +56,7 @@
 
   .GA-Button {
     width: fit-content !important;
-    padding: 8px 5px !important;
+
     margin-right: 0px;
   }
 
